@@ -40,6 +40,7 @@ public class AgeCalculator {
 			System.out.println("You will be " + newAge + "-years-old in "
 				+ anotherYear + ".");
 
+                
 		/* 
 		 EXTRA CREDIT 1: Use an else statement above to output an error message. This
 		 corresponds to the case where the user wasn't born yet.
